@@ -11,7 +11,8 @@
     <properties>
         <dropwizard.version>0.8.1</dropwizard.version>
         <!-- Spring -->
-        <spring.version>5.2.21.RELEASE</spring.version>
+
+        <spring.version>5.2.22.RELEASE</spring.version>
 
         <!-- Hibernate / JPA -->
         <hibernate.version>3.6.9.Final</hibernate.version>
